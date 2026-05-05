@@ -1,0 +1,14 @@
+C:\Users\Windows 11\Downloads\BelleCroissantLyonnais\BelleCroissantLyonnais\bin\Debug\BelleCroissantLyonnais.exe.config
+C:\Users\Windows 11\Downloads\BelleCroissantLyonnais\BelleCroissantLyonnais\bin\Debug\BelleCroissantLyonnais.exe
+C:\Users\Windows 11\Downloads\BelleCroissantLyonnais\BelleCroissantLyonnais\bin\Debug\BelleCroissantLyonnais.pdb
+C:\Users\Windows 11\Downloads\BelleCroissantLyonnais\BelleCroissantLyonnais\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Windows 11\Downloads\BelleCroissantLyonnais\BelleCroissantLyonnais\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Windows 11\Downloads\BelleCroissantLyonnais\BelleCroissantLyonnais\obj\Debug\BelleCroissantLyonnais.csproj.AssemblyReference.cache
+C:\Users\Windows 11\Downloads\BelleCroissantLyonnais\BelleCroissantLyonnais\obj\Debug\BelleCroissantLyonnais.Properties.Resources.resources
+C:\Users\Windows 11\Downloads\BelleCroissantLyonnais\BelleCroissantLyonnais\obj\Debug\BelleCroissantLyonnais.csproj.GenerateResource.cache
+C:\Users\Windows 11\Downloads\BelleCroissantLyonnais\BelleCroissantLyonnais\obj\Debug\BelleCroissantLyonnais.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\Downloads\BelleCroissantLyonnais\BelleCroissantLyonnais\obj\Debug\BelleCro.277552F6.Up2Date
+C:\Users\Windows 11\Downloads\BelleCroissantLyonnais\BelleCroissantLyonnais\obj\Debug\BelleCroissantLyonnais.exe
+C:\Users\Windows 11\Downloads\BelleCroissantLyonnais\BelleCroissantLyonnais\obj\Debug\BelleCroissantLyonnais.pdb
+C:\Users\Windows 11\Downloads\BelleCroissantLyonnais\BelleCroissantLyonnais\obj\Debug\BelleCroissantLyonnais.frmProductList.resources
+C:\Users\Windows 11\Downloads\BelleCroissantLyonnais\BelleCroissantLyonnais\obj\Debug\BelleCroissantLyonnais.frmAddEditProduct.resources
